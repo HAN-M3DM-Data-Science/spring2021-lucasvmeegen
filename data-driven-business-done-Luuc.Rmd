@@ -1,0 +1,81 @@
+---
+title: "Assigment - Data Driven Business"
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output:
+  html_notebook:
+    toc: yes
+    toc_depth: 2
+---
+
+
+
+## What features define a data driven business?
+
+A data driven business is more than just installing the right tools and applications, becoming data-driven is about making data and analytics part of the business strategy, its systems, processes and culture. (Delaware, 2021)
+
+When a company employs a “data-driven” approach, it means it makes strategic decisions based on data analysis and interpretation. A data-driven approach enables companies to examine and organise their data with the goal of better serving their customers and consumers. By using data to drive its actions, an organisation can contextualise and/or personalise its messaging to its prospects and customers for a more customer-centric approach. (atinternet, 2021)
+
+So a data driven business is defined by certain features such as the stragic decision based on data analysis and interperetation. The organization of the data and of course the quality of the data. When companies combine these features they should be right up there in the business strategy of the company which is ultimately controbuting towards a more customer-centric approach. 
+
+Source: https://www.delaware.pro/en-nl/solutions/data-driven-organization
+Source: https://www.atinternet.com/en/glossary/data-driven/
+
+## What are the important features of a data culture?
+
+Organizations are investing trillions of dollars to become more data-driven, but only 8% successfully scale analytics to get value out of their data. What separates the top performers from the rest? 
+Becoming truly data-driven requires changing mindsets, attitudes, and habits—embedding data into the identity of the organization. People have to want to use data and encourage others to do the same. In a Data Culture, people ask the hard questions and challenge ideas. They come together with a shared mission, to improve the organization and themselves with data. Leaders inspire through action, basing decisions on data, not intuition.
+
+Values
+Use data to drive the decisions of the employees.
+
+Behavior
+Changing the way of working.
+
+Creating a transparent environment for the performance of all departments.
+
+Norms
+Using carefully selected KPI's to measure performance
+
+
+Source: https://www.tableau.com/data-culture
+Source: https://hbr.org/2020/01/the-new-analytics-of-culture
+
+
+## What are the transformation steps towards a mature data driven business?
+
+Well the steps for a mature data driven business are according to Provost, F., & Fawcett, T. (2013 and : 
+
+
+
+Using the CRISP-DM model for data mining we can define the steps taken towards a more data driven business
+
+image: ![](https://businessdatasolutions.github.io/courses/data%20science%20for%20business/gitbook/book-output/images/crisp.png)
+
+https://commons.wikimedia.org/wiki/File:CRISP-DM_Process_Diagram.png
+
+**Step 1) Business understanding**
+
+Traditionally Amer Sports Sells directly Business to Business (B2B). 
+Nowadays the changed it more to a Business to Consumer (B2C)
+This transformation started by asking the question what and who are our costumers?
+
+**Step 2) Data understanding, 3)Data preparation and 4)Modelling**
+
+Next step was to try and collect data via experiments by creating a dashboard for each department.
+
+**Step 5) Evaluation**
+
+After feedback, optimize these dashboards going over each department.
+
+**Step 1) Business understanding **
+They found out that each department had different data they wanted to see.
+
+**Step 6) Deployment**
+
+The end result was that that use data driven advice to drive more sales to retailer.
+
+
+
+
+
+
