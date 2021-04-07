@@ -1,0 +1,35 @@
+---
+title: "Assigment - Data Problems vs Data Solutions"
+author: Luuc van Meegen
+date: "`r format(Sys.time(), '%d %B, %Y')`"
+output:
+  html_notebook:
+    toc: yes
+    toc_depth: 2
+---
+
+Search Youtube for a suitable business case example on data driven decision making and copy the embed code below.
+
+<iframe width="570" height="325" src="https://www.youtube.com/embed/b0ttUoL2pyY" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen data-external="1"></iframe> dm
+
+
+
+## What was the business problem?
+
+Looking at the video and thinking about what Coca Cola wanted to achieve with the connected vending machines, was to create a broader variety of different tastes of their products. As most people know Coca Cola is the biggest in the market, they own other brands such as Fanta, Sprinte and Schweppes (Coca Cola, 2021). Over the last decade their has not been any new introductions of different flavours, and looking back at the company's history Coca Cola already made a big mistake in 1985 with the introduction of the "New Coke" which eventually backfired because changing the recipe and formule for the drink declined their sales and market share. Companies like Pepsi took over part of the lost market share. Now after such a long time Coca Cola tried to create a new taste by creating add-ons for their product portfolio. So, Coca Cola introduced the connected vending machines which let people create their own drink by adding flavours such as cinnamon, lemon and cherry. Combing these flavors with all their different drinks made it possible to create a great amount of different mixtures.  
+
+Source: https://www.coca-colacompany.com/brands
+Source: https://www.coca-colacompany.com/company/history/the-story-of-one-of-the-most-memorable-marketing-blunders-ever
+
+## How was it translated into a data mining problem?
+
+All the connected vending machines in all different countries around the world, shared all the information about which mixtures of drinks were chosen. Once introduced of course this made people create the most horrible mixtures possible, so a lot of unusefull data was gathered. Over a longer period of time it became clear that there were certain trends and combinations that were ordered multiple times, by different customers. These patterns and trends combined with the geometric location of those customers created a better understand of the demand for certain flavor combinations around the world. Firstly, the introduction started of with a lot of data that was not necessarily useful, however over a long period of time it became visible that there were indeed trends in certain regions. 
+
+Source: https://internetofbusiness.com/supply-chain-iot-coca-cola/
+
+
+## What is the realized business value?
+
+Combining all this data created new business opportunities for Coca Cola, and created a clear path to see which type of product should have been introduced in stores in certain regions/countries. Using the big data to understand the customer and realize more business value for a company such as Coca Cola was a smart move. While using the data to grow it's total business. 
+
+source: https://www.coca-colacompany.com/news/coca-cola-sustainably-grows-its-total-beverage-business
